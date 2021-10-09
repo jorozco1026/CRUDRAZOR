@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Linq;
-using ProyectoG58.App.Dominio.Entidades;
-using ProyectoG58.App.Persistencia.AppRepositorios;
+using ProyectoG58.App.Dominio;
+using ProyectoG58.App.Persistencia;
 
-namespace ProyectoG58.App.Persistencia.AppRepositorios
+namespace ProyectoG58.App.Persistencia
 {
     public class RepositorioFormador : IRepositorioFormador
     {

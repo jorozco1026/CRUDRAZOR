@@ -9,7 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
-//using ProyectoG58.App.Persistencia.AppRepositorios;
+using ProyectoG58.App.Persistencia;
 
 namespace ProyectoG58.App.Presentacion
 {
